@@ -1,4 +1,0 @@
-Sajnos textúrákkal együtt a játék nem fér bele az 1 MB limitbe, úgyhogy a textúrákat külön letölthetővé tettem.
-
-A játék futtatásához szükséges textúrák az alábbi linken elérhetőek:
-https://drive.google.com/file/d/1l8lezFENJHVHICEIXS0Aqg0D58C8JCnl/view?usp=sharing
